@@ -32,7 +32,7 @@
 <p>To deploy the Decentralized Identity Verification System, follow these steps:</p>
 <ol>
     <li>Clone the repository to your local machine:</li>
-    <pre><code>git clone https://github.com/muhammadumermemon/Decentralized-Identity-Verification-System.git</code></pre>
+    <pre><code>git clone https://github.com/muhammadumerbinfarooq/Decentralized-Identity-Verification-System.git</code></pre>
     <li>Navigate to the project directory:</li>
     <pre><code>cd Decentralized-Identity-Verification-System</code></pre>
     <li>Install the required dependencies using npm or yarn:</li>
